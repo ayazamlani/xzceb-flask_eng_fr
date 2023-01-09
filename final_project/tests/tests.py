@@ -3,7 +3,7 @@ Unit tests for translater app
 """
 
 import unittest
-from translator import frenchToEnglish, englishToFrench
+from machinetranslation.translator import frenchToEnglish, englishToFrench
 
 class testTranslater(unittest.TestCase):
     """
